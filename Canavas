@@ -1,0 +1,11 @@
+<canvas></canvas>
+<div class="scene">
+
+  <div class="car red"></div>
+</div>
+<div class="buttons">
+  <button>Disconnect</button>
+  <button>Clear screen</button>
+</div>
+<script src="https://car.pakastin.fi/socket.io/socket.io.js"></script>
+<h1>MULTIPLAYER CAR GAME</h1>
